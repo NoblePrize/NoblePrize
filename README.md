@@ -1,10 +1,10 @@
-**About Me**
+#About Me
 
 Hey there! I'm Raja Nabeel Ashraf, a technical writer cum Data Scientist based in Riyadh, Saudi Arabia. I love using data to tell compelling stories and creating engaging content that resonates with the audience.
 
-**Skills**
+#Skills
 
-  _Data Science_
+  ###Data Science
   
     Data Analysis using Excel and Python
     Data Visualization using Power Bi, Excel, and Python Libraries
@@ -17,7 +17,7 @@ Hey there! I'm Raja Nabeel Ashraf, a technical writer cum Data Scientist based i
     NLP / CV / LLM
     MS Office Suite
 
-**Projects**
+#Projects
 
     Empowering Punjab Education
     Analyzed Punjab's educational landscape, optimizing a USD $3 billion investment, achieving a 20% increase in quality learning environments, and narrowing gender gaps by 15%.
@@ -33,11 +33,11 @@ Hey there! I'm Raja Nabeel Ashraf, a technical writer cum Data Scientist based i
 
     More Projects in my Repos
 
-**Work Experience**
+#Work Experience
 
     Ecommerce Success Pakistan | Brand Relations Manager Established and cultivated business relationships, negotiated successful partnerships, and conducted in-depth product analysis for the Amazon marketplace.
 
-**Education**
+#Education
 
     Bachelor’s in Electronics Engineering | Sir Syed University of Engineering and Technology | 2003
     Data Science & AI Bootcamp | atomcamp | 2023 - Present
