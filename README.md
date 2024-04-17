@@ -1,8 +1,9 @@
-**About Me
-**
+**About Me**
+
 Hey there! I'm Raja Nabeel Ashraf, a technical writer cum Data Scientist based in Riyadh, Saudi Arabia. I love using data to tell compelling stories and creating engaging content that resonates with the audience.
 
 **Skills**
+
   _Data Science_
     Data Analysis using Excel and Python
     Data Visualization using Power Bi, Excel, and Python Libraries
